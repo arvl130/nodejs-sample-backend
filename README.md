@@ -1,8 +1,8 @@
-# Sample REST backend API
+# 🍋 Sample REST backend API 💤
 
 This is an example project for building REST APIs using Node.js and MariaDB.
 
-## Setup
+## 🔧 Setup
 
 Before anything, install the following development tools:
 ```
@@ -14,7 +14,7 @@ Also, install the project dependencies:
 $ npm install
 ```
 
-## Usage
+## 🚀 Usage
 
 You may run the project with the following command:
 ```
@@ -35,10 +35,10 @@ On startup, the program reads the following environment variables:
 
 You may want to set some of these environment variables before starting the project.
 
-## License
+## ⚖️ License
 
 This project is published under the terms of the ISC License. See LICENSE file for more information.
 
-## Other notes
+## 📒 Other notes
 
 This project is quite basic as of now. API Documentation will be added later. (:
