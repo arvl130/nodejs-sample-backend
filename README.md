@@ -1,4 +1,4 @@
-# 🍋 Sample REST backend API 💤
+# 💤 Sample REST backend API 💤
 
 This is an example project for building REST APIs using Node.js and MariaDB.
 
